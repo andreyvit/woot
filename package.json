@@ -2,7 +2,7 @@
   "author": "Andrey Tarantsov <andrey@tarantsov.com>",
   "name": "woot",
   "description": "Quickly create new projects based on custom templates",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/andreyvit/woot",
   "repository": {
     "url": "git://github.com/andreyvit/woot"
