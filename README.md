@@ -1,5 +1,7 @@
 # Woot! — Instant project creation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreyvit/woot.svg)](https://greenkeeper.io/)
+
 Create a template once, use everywhere:
 
     $ woot npm-package foo-bar
