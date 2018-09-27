@@ -15,13 +15,13 @@
     "test": "./node_modules/mocha/bin/mocha -R ${REPORTER-spec}"
   },
   "dependencies": {
-    "debug": "~0.7.0",
+    "debug": "~4.0.1",
     "pathspec": "~0.9.1",
-    "mkdirp": "~0.3.2",
-    "dreamopt": "~0.7.0"
+    "mkdirp": "~0.5.1",
+    "dreamopt": "~0.8.0"
   },
   "devDependencies": {
-    "mocha": "~1.0.3"
+    "mocha": "~5.2.0"
   },
   "optionalDependencies": {},
   "engines": {
